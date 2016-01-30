@@ -1,6 +1,8 @@
 # PXLZ
 ### (A.K.A. Instagram Challenge)
 
+Makers Academy week 7 challenge
+
 ### Duration
 2 days
 
